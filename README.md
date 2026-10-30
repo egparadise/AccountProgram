@@ -32,6 +32,8 @@ npm run preview
 
 기본 개발 주소는 `http://localhost:4173`입니다.
 
+Windows에서는 `Start-AccountProgram.ps1`을 실행하면 빌드된 앱의 로컬 서버가 숨김으로 시작되고 Chrome 앱 창이 열립니다. 바탕화면 바로가기도 이 실행기를 사용합니다.
+
 ## 구조
 
 - `src/lib/accounting.ts`: 부가세, 자동 분개, 월 집계, 시산표
